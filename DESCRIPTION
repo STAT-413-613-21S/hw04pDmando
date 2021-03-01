@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: If this package works it will help me get an A in this class and it has two key functions
+Description: If this package works it will help me get an A in this class and it has two key functions.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
