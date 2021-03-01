@@ -18,17 +18,3 @@ plotmyseq_n <- function(inputdata) {
                   y = "output")
   return(plot)
 }
-
-my_data <- tibble::tribble(  #Testing the data
-  ~x, ~y, ~z, ~n,
-  2,4,3,3,
-  2,4,3,4,
-  2,4,3,5,
-  2,4,3,6,
-  2,4,3,7,
-  2,4,3,8,
-  2,4,3,9,
-  2,4,3,10,
-  2,4,3,12)
-
-plotmyseq_n(my_data)
