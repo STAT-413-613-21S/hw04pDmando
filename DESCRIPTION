@@ -1,5 +1,5 @@
 Package: hw04pDmando
-Title: What the Package Does (One Line, Title Case)
+Title: Two Functions for HW4
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: If this package works it will help me get an A in this class
+Description: If this package works it will help me get an A in this class and it has two key functions
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
