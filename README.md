@@ -11,8 +11,8 @@ The goal of hw04pDmando is to …
 
 ## Installation
 
-You can install the released version of hw04pDmando from
-[CRAN](https://CRAN.R-project.org) by asking me (Dmando) for a copy
+You can install the released version of hw04pDmando by asking me
+(Dmando) for a copy
 
 ``` r
 install.packages("hw04pDmando")
