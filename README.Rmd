@@ -19,11 +19,11 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 
-The goal of hw04pDmando is to fulfill several deliverables asked for in hw04 in Stat-413
+The goal of hw04pDmando is to fulfill several deliverables asked for in hw04 in Stat-413.
  
 ## Installation
  
-You can install the released version of hw04pDmando by asking me (Dmando) for a copy
+You can install the released version of hw04pDmando by asking me (Dmando) for a copy.
 
 ``` r
 install.packages("hw04pDmando")
@@ -39,7 +39,7 @@ This package contains two functions. The first is myseq_n which creates a recurs
 
 ## Function 1
 
-This an example of myseq_n which creates and solves a recursive function
+This an example of myseq_n which creates and solves a recursive function.
 
 ```{r}
 myseq_n(x = c(2, 8, 11), n = 4)
@@ -47,7 +47,7 @@ myseq_n(x = c(2, 8, 11), n = 4)
 
 ## Function 2
 
-This is an example of myseqplot which takes a data set predisposed to the prior recursive function and creates a line plot from it
+This is an example of myseqplot which takes a data set predisposed to the prior recursive function and creates a line plot from it.
 
 ```{r}
 my_data <- tibble::tribble(

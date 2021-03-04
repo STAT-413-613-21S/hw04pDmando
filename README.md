@@ -8,12 +8,12 @@
 <!-- badges: end -->
 
 The goal of hw04pDmando is to fulfill several deliverables asked for in
-hw04 in Stat-413
+hw04 in Stat-413.
 
 ## Installation
 
 You can install the released version of hw04pDmando by asking me
-(Dmando) for a copy
+(Dmando) for a copy.
 
 ``` r
 install.packages("hw04pDmando")
@@ -36,7 +36,7 @@ of the row’s recursive function.
 ## Function 1
 
 This an example of myseq\_n which creates and solves a recursive
-function
+function.
 
 ``` r
 myseq_n(x = c(2, 8, 11), n = 4)
@@ -46,7 +46,7 @@ myseq_n(x = c(2, 8, 11), n = 4)
 ## Function 2
 
 This is an example of myseqplot which takes a data set predisposed to
-the prior recursive function and creates a line plot from it
+the prior recursive function and creates a line plot from it.
 
 ``` r
 my_data <- tibble::tribble(
