@@ -22,3 +22,5 @@ Imports:
     tibble,
     magrittr
 Config/testthat/edition: 3
+URL: https://github.com/Dmando/hw04pDmando
+BugReports: https://github.com/Dmando/hw04pDmando/issues
