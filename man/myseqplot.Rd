@@ -16,5 +16,16 @@ Plot of the recursive function output.
 This function plots the output of a recursive function on a data set.
 }
 \examples{
-myseqplot(inputdata)
+my_data <- tibble::tribble(
+~x, ~y, ~z, ~n,
+2,4,3,3,
+2,4,3,4,
+2,4,3,5,
+2,4,3,6,
+2,4,3,7,
+2,4,3,8,
+2,4,3,9,
+2,4,3,10,
+2,4,3,12)
+myseqplot(my_data)
 }
