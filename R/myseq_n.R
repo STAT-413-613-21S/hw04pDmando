@@ -1,3 +1,15 @@
+
+#' Recursive function
+#'
+#' This function creates and solves a recursive function that requires three x variables inputted.
+#'
+#' @param x numeric
+#' @param n numeric
+#'
+#' @return the solution to the recursive function.
+#' @export myseq_n
+#'
+#' @examples myseq_n(x = c(2, 4, 3), n = 3)
 myseq_n <- function(x, n){
   if (length(x) != 3){
     stop("Include exactly three numbers") #Checking for Errors
